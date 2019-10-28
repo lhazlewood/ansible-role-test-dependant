@@ -1,0 +1,3 @@
+---
+- src: https://github.com/lhazlewood/ansible-role-test
+  name: lhazlewood.test

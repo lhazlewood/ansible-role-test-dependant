@@ -1,0 +1,7 @@
+---
+galaxy_info:
+  role_name: ansible-role-test-dependant
+  author: Les Hazlewood
+  description: An ansible role to test transitive dependency resolution with a main/requirements.yml file
+  min_ansible_version: '2.7'
+  dependencies: []

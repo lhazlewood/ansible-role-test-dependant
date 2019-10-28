@@ -1,0 +1,7 @@
+---
+- debug:
+    msg: 'In dependant role.  Before running role dependency.'
+- import_role:
+    name: lhazlewood.test
+- debug:
+    msg: 'In dependant role.  After running role dependency.'
